@@ -24,8 +24,16 @@
 
 ---
 
-### **4. Crear un Issue y Cerrarlo con un Commit**
+### **4. Creé un commit**
 
-1. En la pestaña superior **Issues** del repositorio.
-2. Clicando en **New Issue**.
-3. Creé un issue llamado "CrearRamaReadme".
+1. Cree un commit en la rama Readme seleccionando el archivo de readme.md y lo llamé "Creacion Rama Readme y archivo readme."
+
+---
+
+### **5. Creé un Tag y generé un Release**
+
+1. En Git>New Tag y lo llamé v1.0
+2. A continuación hice un push.
+3. En GitHub cliqué en Release, seleccioné el tag v1.0
+4. Cliqué en Publish release.
+
