@@ -37,3 +37,8 @@
 3. En GitHub cliqué en Release, seleccioné el tag v1.0
 4. Cliqué en Publish release.
 
+### **6. Fusion de ramas**
+
+1. Eliminé el último commit de interface con el comando `git reset --hard HEAD~1`
+2. Descubrí que a saber como me desapareció la rama datos...
+3. Selecioné Git>Merge desde la rama main y escogí interface y la opción squash.
